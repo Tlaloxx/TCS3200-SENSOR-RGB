@@ -7,8 +7,7 @@
 
   <p align="center">
     Casos practicos de implementacion by
-    <br>
-  <p align="center">Tlaloxx</p>
+    <br> Tlaloxx
     <a href="https://pdf1.alldatasheet.com/datasheet-pdf/view/454462/TAOS/TCS3200.html">Hoja de datos</a>
     <a href="https://www.youtube.com/watch?v=OAcuLzGWZuU&t=1223s">Video de apoyo</a>
   </p>
