@@ -1,8 +1,6 @@
 ## TCS3200-SENSOR-RGB
 Ejemplos de implementacion del sensor TCS3200
 
-[Hoja de datos]( "Hoja de datos TCS3200")
-
 <p align="center">
   <a href="https://github.com/Tlaloxx">
     <img src="https://images.vexels.com/media/users/3/185019/isolated/preview/b7328d8cd1f9714a76ed75db0edca1fe-ilustracion-de-calavera-de-calavera-de-azucar.png" alt="Logo" width=72 height=72>
