@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Tlaloxx">
-    <img src="https://hetpro-store.com/TUTORIALES/wp-content/uploads/2016/10/29.jpg" alt="Logo" width=72 height=72>
+    <img src="https://hetpro-store.com/TUTORIALES/wp-content/uploads/2016/10/29.jpg" alt="Logo" width=92 height=82>
   </a>
 
   <h3 align="center">TCS3200</h3>
